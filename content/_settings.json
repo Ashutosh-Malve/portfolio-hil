@@ -1,6 +1,6 @@
 {
 	"name": "Heartfulness Innovation Lab",
-	"logo": "",
+	"logo": "https://cdn-web.heartfulness.org/in/wp-content/uploads/2019/09/02075302/logo_heartfulness_black.png",
 	
 	"username": {
 		"github": "Heartfulness" 
@@ -8,7 +8,7 @@
 
 	"portfolio": { 
 		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"repo_html": "https://www.github.com/Heartfulness",
+		"repo_api": "https://api.github.com/repos/Heartfulness"
 	}
 }
