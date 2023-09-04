@@ -14,12 +14,7 @@
 			"person": "Brittany Chiang - Software Engineer",
 			"link": "https://brittanychiang.com/",
 			"note": "A major inspiration to create an open source theme."
-		},
-		{ 
-			"person": "Vercel - Platform",
-			"link": "https://vercel.com/docs",
-			"note": "Host your own Next.js project for free!"
-		}
+		}  
 	],
 
 	"links": [
@@ -32,19 +27,15 @@
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
+			"url": "https://dev.to/HeartfulnessInnovationLab",
 			"icon": "dev"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/HeartfulnessInnovationLab/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/HeartfulnessInnovationLab",
 			"icon": "github"
 		}
 	]

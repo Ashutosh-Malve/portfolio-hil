@@ -28,15 +28,12 @@ export default function About() {
 		<Section classProp={about.section}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="About Me"
+					title="About us"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="The Heartfulness Innovation Lab is for Multidisciplinary Research is dedicated to advancing scientific knowledge and technological innovation in the realms of Heartfulness Meditation,  AI/ML, Plant sciences,and Nature studies. Our mission encompasses conducting pioneering research, developing evidence-based interventions, and creating innovative  platforms that promote well-being and sustainability. "
 				/>
 				<section className={about.content}>
-					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
-						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
-					</div>
+				 
 					<div className={about.copy} >
 						<CopyBlock 
 							title="Softskills that pay the bills"
