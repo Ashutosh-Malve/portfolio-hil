@@ -23,14 +23,17 @@ export default function Looking() {
 	return (
 		<Section classProp={`${looking.section} borderBottom`}>	
 			<Container classProp={`${section.title} ${looking.container}`} spacing={['verticalXXXLrg']}>
-				<h4>I&apos;m currently looking for employment.</h4>
+				
+			<h4> </h4>
+				 <h2><span className={looking.highlight2}>Code</span> <span className={looking.highlight}>For</span>  <span className={looking.highlight}>Cause</span>  Hackathon</h2> 
+				 <p className="subtitle">The &quot;Harmony Code Quest&quot; is not just a hackathon; it&apos;s a call to arms for the bright minds of today to use their skills and passion to create solutions that resonate with the essence of the Heartfulness Innovation Lab. Together, let us forge a path where technology serves as a bridge, connecting hearts and minds for a more compassionate and enlightened future.</p> 
+				 
 				<h2 className={looking.json}>motivation : &#123;</h2>
 				<h2 className={looking.jsonSub}><span className={looking.highlight}>Empowering Minds</span>,</h2>
-				<h2 className={looking.jsonSub}><span className={looking.highlight2}>Enriching Lives, Enhancing Nature</span></h2>
+				<h2 className={looking.jsonSub}><span className={looking.highlight2}>Enriching Lives</span>,</h2>
+				<h2 className={looking.jsonSub}><span className={looking.highlight}> Enhancing Nature</span>,</h2>
+
 				<h2 className={looking.json}>&#125;</h2>
-				<h4>I am particularily interested in product facing postions where I can help make an organization wide impact.</h4>
-			 <h2>Senior <span className={looking.highlight}>User Experience</span> Designer</h2> 
-				 <p className="subtitle">with a focus on Product Design.</p> 
 			</Container>
 		</Section>
 	)
