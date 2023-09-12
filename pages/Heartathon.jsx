@@ -26,6 +26,7 @@ export default function HomePage() {
 			<Technical />
 			<About />
 			{/* <Career /> */}
+			{/* <Career /> */}
 		</>
 	);
 }
