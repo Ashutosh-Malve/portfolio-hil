@@ -23,10 +23,11 @@ export default function HomePage() {
 			<Looking />
 			{/* <FeaturedProjects /> */}
 			
-			<Technical />
+			{/* <Technical /> */}
+			
+			<Career />
+		 
 			<About />
-			{/* <Career /> */}
-			{/* <Career /> */}
 		</>
 	);
 }
