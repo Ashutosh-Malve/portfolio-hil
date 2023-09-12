@@ -4,6 +4,7 @@ import About 		from '../components/sections/index/about'
 import Technical 	from '../components/sections/index/technical'
 import Career 		from '../components/sections/index/career'
 import FeaturedProjects	from '../components/sections/projects/featured'
+import Head from 'next/head'
 
 import Color 		from '../components/utils/page.colors.util'
 
@@ -14,6 +15,13 @@ export default function HomePage() {
 
 	return (
 		<>
+		 <Head>
+        <title>Heartfulness
+Innovation Lab</title>
+<meta property="og:image" content="" />
+
+ 
+      </Head>
 			<Color colors={colors} />
 			<Hero />
 			{/* <Looking /> */}
