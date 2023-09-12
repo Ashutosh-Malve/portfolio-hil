@@ -69,7 +69,7 @@ Connect with like-minded individuals, potential collaborators, and industry prof
 								 
 								</span>
 								<p>
-								Who doesn&apos;t love free stuff? Get ready for epic swag – t-shirts, prizes, and more! You'll be the coolest coder on the block.
+								Who doesn&apos;t love free stuff? Get ready for epic swag – t-shirts, prizes, and more! You&apos;ll be the coolest coder on the block.
 What are you waiting for Accomodation and Food will be on us, it&apos;s not your average tech event—it&apos;s an adventure! We promise laughs, learning, and loads of coding. Be there or be square!
 								</p>
 								{/* <p>
